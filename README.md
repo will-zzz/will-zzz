@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React** and **Solidity**
 
-- 👯 I’m looking to collaborate on **anything new or crazy**
+- 👯 I’m looking to collaborate on **anything new**
 
 - 🤝 I’m looking for help with **React**
 
