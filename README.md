@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
-<h3 align="center">A blockchain developer and guitar player from the U.S.</h3>
+<h3 align="center">A developer and guitar player from the U.S.</h3>
 
 - 🌱 I’m currently working on audio plugins
 
