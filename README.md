@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
 <h3 align="center">A blockchain developer and guitar player from the U.S.</h3>
 
-- 🌱 I’m currently working on [Block Crops](https://github.com/will-zzz/block-crops)
+- 🌱 I’m currently working on audio plugins
 
-- 💻 I’m currently learning **React** and **Solidity**
+- 💻 I’m currently learning **React**, **Solidity** and **C plus plus**
 
 - 🤝 I’m looking to collaborate on **anything new**
 
