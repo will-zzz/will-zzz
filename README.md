@@ -1,11 +1,10 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="images/title.png?raw=true" style="max-width: 100%;" alt="Will Zakielarz" />
+  <a href="#"><img src="images/title.png?raw=true" style="max-width: 100%;" alt="Will Zakielarz" /></a>
   <br />
   <br />
   <br />
-  <br />
-  <img width="100%" alt="Introduction" src="images/intro.svg" />
+  <a href="#"><img width="90%" src="images/intro.svg" /></a>
 
   <a href="https://willzakielarz.com">Personal Website</a>
 
