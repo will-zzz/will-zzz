@@ -5,7 +5,7 @@
   <br />
   <br />
   <br />
-  <img height="50" alt="Introduction" src="images/intro.svg" />
+  <img width="100%" alt="Introduction" src="images/intro.svg" />
 
   <a href="https://willzakielarz.com">Personal Website</a>
 
