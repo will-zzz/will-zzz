@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Will</h1>
-<h3 align="center">A full-stack developer from the U.S.</h3>
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="images/title.png?raw=true" style="max-width: 100%;" alt="Will Zakielarz" />
+  <br />
+  <br />
+  <br />
+  <br />
 
-- Currently working on [QuikCal](https://github.com/will-zzz/QuikCal-Dashboard)
+  <a href="https://willzakielarz.com">Personal Website</a>
 
-- Learning **TypeScript**, **NextJS** and **Azure**
+</div>
