@@ -1,0 +1,28 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with minecart tracks -->
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="position: relative; width: 100%; height: 100%;">
+      <img src="data:image/png;base64,YOUR_BASE64_ENCODED_TRACKS_HERE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;" />
+      <style>
+        @keyframes move {
+          0% {
+            transform: translateX(0) translateY(0);
+          }
+          50% {
+            transform: translateX(100px) translateY(100px);
+          }
+          100% {
+            transform: translateX(0) translateY(0);
+          }
+        }
+        .minecart {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          animation: move 5s linear infinite;
+        }
+      </style>
+      <img class="minecart" src="data:image/png;base64,YOUR_BASE64_ENCODED_STEVE_IN_MINECART_HERE" style="width: 100px; height: 100px;" />
+    </div>
+  </foreignObject>
+</svg>
