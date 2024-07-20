@@ -21,6 +21,7 @@
           text-align: center;
           width: 100%;
           top: 14%;
+          margin: 0;
         }
       </style>
       <text>Personal Website</text>
