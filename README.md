@@ -14,5 +14,5 @@
   <br>
   <br>
   
-  <a href="#"><img width="90%" src="images/intro.svg" /></a>
+  <a href="#"><img width="80%" src="images/intro.svg" /></a>
 </div>
