@@ -8,7 +8,7 @@
   
   <div style="display: flex; justify-content: space-between; width: 65%; margin: 0 auto;">
     <a href="mailto:will.zakielarz@duke.edu"><img src="images/email.svg" style="width: 32%;" /></a>
-    <a href="#"><img src="images/resume.svg" style="width: 32%;" /></a>
+    <a href="https://drive.google.com/file/d/1edNKNaSjMI6URBEVYb896-FfiXniKXOT/view?usp=sharing"><img src="images/resume.svg" style="width: 32%;" /></a>
   </div>
   
   <br>
