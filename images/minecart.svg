@@ -10,7 +10,7 @@
             transform: translateX(0) translateY(0);
           }
           50% {
-            transform: translateX(100px) translateY(-100px);
+            transform: translateX(130px) translateY(-66px);
           }
           100% {
             transform: translateX(0) translateY(0);
@@ -18,8 +18,8 @@
         }
         .minecart {
           position: absolute;
-          bottom: 0;
-          left: 0;
+          bottom: 8%;
+          left: 8%;
           animation: move 5s linear infinite;
         }
       </style>
