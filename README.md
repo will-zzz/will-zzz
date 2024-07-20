@@ -12,7 +12,6 @@
   </div>
   
   <br>
-  <br>
   <div>
     <a href="#"><img width="80%" src="images/intro.svg" /></a>
   </div>
