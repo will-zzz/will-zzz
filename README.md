@@ -11,5 +11,8 @@
     <a href="#"><img src="images/discord.svg" style="width: 32%;" /></a>
   </div>
   
+  <br>
+  <br>
+  
   <a href="#"><img width="90%" src="images/intro.svg" /></a>
 </div>
