@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <a href="#"><img src="images/title.png?raw=true" style="max-width: 100%;" alt="Will Zakielarz" /></a>
+  <a href="#"><img width="100%" src="images/splash.svg" /></a>
   <br />
   <br />
   <br />
