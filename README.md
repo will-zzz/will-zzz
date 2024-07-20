@@ -15,7 +15,8 @@
   <div>
     <a href="#"><img width="80%" src="images/intro.svg" /></a>
   </div>
-  <div>
+  <div style="display: flex; justify-content: space-between; width: 65%; margin: 0 auto;">
+    <a href="#"><img width="8%" src="images/sign.svg" /></a>
     <a href="#"><img width="25%" src="images/minecart.svg" /></a>
   </div>
 </div>
