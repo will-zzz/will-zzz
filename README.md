@@ -16,6 +16,7 @@
   <div>
     <a href="#"><img width="80%" src="images/intro.svg" /></a>
   </div>
-  
-  <a href="#"><img width="30%" src="images/minecart.svg" /></a>
+  <div>
+    <a href="#"><img width="25%" src="images/minecart.svg" /></a>
+  </div>
 </div>
